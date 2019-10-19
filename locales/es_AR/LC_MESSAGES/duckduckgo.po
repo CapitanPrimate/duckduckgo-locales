@@ -2722,7 +2722,7 @@ msgstr "La Semana Pasada"
 
 #. Option for the filter-by-date search.
 msgid "Past Year"
-msgstr "past year"
+msgstr "El año pasado"
 
 msgctxt "settings"
 msgid "Personalize DuckDuckGo"
@@ -2824,7 +2824,7 @@ msgstr "Kit de prensa"
 
 msgid ""
 "Prevent advertisers and corporations from tracking you across the Internet."
-msgstr "Evitá que anunciantes y corporaciones te rastreen en internet"
+msgstr "Evitá que anunciantes y corporaciones te rastreen en internet."
 
 msgid "Preview"
 msgstr "Vista previa"
